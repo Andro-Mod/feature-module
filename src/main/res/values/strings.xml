@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="hello_world" tools:ignore="ExtraTranslation">Hello, world!</string>
+    <string name="hello_world" tools:ignore="ExtraTranslation">Hello, world!!! Nice to meet you!</string>
 </resources>
